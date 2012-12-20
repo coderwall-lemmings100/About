@@ -1,10 +1,10 @@
-#### The Kilo of Lemmings Achievement is awarded to registered Coderwall members that have open sourced at least one original repo that's being watched by more than 100 devs.
+#### The Lemmings 100 Achievement is awarded to registered Coderwall members that have open sourced at least one original repo that's being watched by more than 100 devs.
 
 ## What is Coderwall
 
 [Coderwall](https://coderwall.com/gh) is a network of developers that care about their craft. We recognize your programming accomplishments and make it easy to connect with others developers.
 
-## How do I unlock the Kilo of Lemmings achievement?
+## How do I unlock the Lemmings 100 achievement?
 
 Easy! Visit [coderwall.com](https://coderwall.com/gh) and create an account. We'll monitor your public github repo once a week and award you new achievements.
 
